@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "211158459563",
+    "project_id": "edu-spark-74663",
+    "storage_bucket": "edu-spark-74663.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211158459563:android:0902fec2a3f5df816f83ee",
+        "android_client_info": {
+          "package_name": "com.example.eduspark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211158459563-5e6nu3i4939nrh2rj7pdllvih2gqqsir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eduspark",
+            "certificate_hash": "dc4a948097ee861a771df4d81e9d34061a675c3b"
+          }
+        },
+        {
+          "client_id": "211158459563-p0425s2p00tjr8eqe8cdit6k9eeo73dv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJFX12wTetod-dpb9Xod0ooa9_sYKjwAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211158459563-p0425s2p00tjr8eqe8cdit6k9eeo73dv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
