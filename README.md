@@ -87,7 +87,7 @@ For issues, bugs, or suggestions, feel free to open a pull request or issue.
 
 ---
 
-Let me know if you'd like this turned into an actual `README.md` file or need help adding badges (build passing, license, Android, etc.).
+
 
 
 
